@@ -1,0 +1,7 @@
+*{
+  display:grid;
+  place-items:center
+}
+h1{
+  font-size: 72px
+}
